@@ -1,0 +1,134 @@
+a .logo{
+    width: 100px;
+    height:100px;
+    color:white;
+}
+
+.nav-link{
+    color: #fff!important;
+    font-weight: bold;
+    margin-left: 10px;
+}
+.nav-link:hover{
+    background: #000;
+    border-radius: 5px;
+}
+
+.navbar-brand{
+    flex-grow: 1;
+}
+
+.navbar-collapse{
+    flex-grow: 0;
+}
+
+.header-1{
+    min-width: 100%;
+    background: #f56262;
+    border-radius: 40px!important;
+}
+
+p{
+    font-size: 1.3rem;
+}
+
+body{
+    min-width: 100%;
+    background-color: #da5c5c!important;
+}
+
+.container{
+    width: 1024px;
+    margin: 0 auto;
+}
+
+
+
+header nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header nav ul{
+    display: flex;
+}
+
+header nav ul li{
+    list-style: none;
+    padding: 5px 15px
+}
+
+header nav ul li:hover{
+    cursor: pointer;
+    border-bottom: 1px solid #000;
+}
+
+.card-img-top1{
+    width: 120px;
+    height: 120px;
+    margin-left: 85px;
+    margin-right:  83px;
+}
+
+.card-img-top2{
+    width: 120px;
+    height: 120px;
+    margin-left: 90px;
+    margin-right:  150px;
+}
+
+.card-img-top3{
+    width: 120px;
+    height: 120px;
+    margin-left: 90px;
+    margin-right:  150px;
+}
+
+.card-img-top4{
+    width: 120px;
+    height: 120px;
+    margin-left: 90px;
+    margin-right:  150px;
+}
+
+.card-img-top5{
+    width: 120px;
+    height: 120px;
+    margin-left: 90px;
+    margin-right:  150px;
+}
+
+
+
+.card-img-top6{
+    width: 150px;
+    height: 80px;
+    margin-left: 70px;
+    margin-right:  200px;
+}
+
+.redactor{
+    text-align: center;
+}
+
+.card{
+    float: left;
+    background-color: #f56262!important; 
+    border-radius: 25px!important;
+}
+
+.card-img-top7{
+    width: 120px;
+    height: 120px;
+    margin-left: 90px;
+    margin-right:  150px;
+}
+
+.dovidnuku{
+    text-align: center;
+}
+
+img{
+    border-radius: 40px!important;
+}
