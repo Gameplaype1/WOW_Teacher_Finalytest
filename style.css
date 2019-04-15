@@ -108,6 +108,7 @@ header nav ul li:hover{
     margin-right:  200px;
 }
 
+
 .redactor{
     text-align: center;
 }
@@ -131,4 +132,15 @@ header nav ul li:hover{
 
 img{
     border-radius: 40px!important;
+}
+
+.biblioteku{
+    text-align: center;
+}
+
+.card-img-top8{
+    width: 120px;
+    height: 120px;
+    margin-left: 90px;
+    margin-right:  150px;
 }
